@@ -3,5 +3,5 @@ Based on my chosen journal article in Assignment 1 titled "E-marketplace in Mala
 
 reference: https://seminar.utmspace.edu.my/jisri/download/Vol10-1/Paper1_E-marketplace%20in%20Malaysia%20Challenges%20and%20Solutions.pdf
 
-My work below:
+My work as below:
 ![Screenshot](researchPoster.png)
